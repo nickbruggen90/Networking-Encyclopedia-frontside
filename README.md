@@ -20,7 +20,7 @@ This is **not** a generic notes repo. It’s my full-stack network reference for
 
 | Section | Description |
 |--------|-------------|
-| **[Layer 2](./Layer2/)** | STP, RSTP, MSTP, VLANs, EtherChannel, VTP, DTP |
+| **[Layer 2]((https://github.com/nickbruggen90/Networking-Encyclopedia-backside/tree/main/Contents/IPServices)** | STP, RSTP, MSTP, VLANs, EtherChannel, VTP, DTP |
 | **[Layer 3](./Layer3/)** | OSPF, EIGRP, BGP, VRFs, PBR |
 | **[IP Services](./IP_Services/)** | NAT, DHCP, Syslog, NTP, SNMP |
 | **[Network Security](./Security/)** | ACLs, DHCP Snooping, DAI, MACsec, 802.1X |
