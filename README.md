@@ -20,17 +20,20 @@ This is **not** a generic notes repo. It’s my full-stack network reference for
 
 | Section | Description |
 |--------|-------------|
+| **[Core Concepts](https://github.com/nickbruggen90/Networking-Encyclopedia-backside/tree/main/Contents/CoreConcepts)** | Management Plane, Data Plane, Control Plane |
 | **[Layer 2](https://github.com/nickbruggen90/Networking-Encyclopedia-backside/tree/main/Contents/Layer2)** | STP, RSTP, MSTP, VLANs, EtherChannel, VTP, DTP |
 | **[Layer 3](https://github.com/nickbruggen90/Networking-Encyclopedia-backside/tree/main/Contents/Layer3)** | OSPF, EIGRP, BGP, VRFs, PBR |
 | **[Layer 4](https://www.nickbruggen90.net)** | .......... |
+| **[Wireless](https://github.com/nickbruggen90/Networking-Encyclopedia-backside/tree/main/Contents/Wireless)** | .......... |
 | **[IP Services](https://github.com/nickbruggen90/Networking-Encyclopedia-backside/tree/main/Contents/IPServices)** | NAT, DHCP, Syslog, NTP, SNMP |
 | **[Network Security](https://github.com/nickbruggen90/Networking-Encyclopedia-backside/tree/main/Contents/NetworkSecurity)** | ACLs, DHCP Snooping, DAI, MACsec, 802.1X |
 | **[Multicast](https://github.com/nickbruggen90/Networking-Encyclopedia-backside/tree/main/Contents/Multicast)** | IGMP, PIM, RPF |
 | **[Redundancy](https://github.com/nickbruggen90/Networking-Encyclopedia-backside/tree/main/Contents/Redundancy)** | HSRP, VRRP, GLBP |
 | **[Network Management](https://github.com/nickbruggen90/Networking-Encyclopedia-backside/tree/main/Contents/NetworkManagement)** | NetFlow, RESTCONF, NETCONF, SNMP |
 | **[Overlay Technologies](https://github.com/nickbruggen90/Networking-Encyclopedia-backside/tree/main/Contents/OverlayTechnologies)** | DMVPN, LISP, SD-WAN, VXLAN |
+| **[Advanced Topics](https://github.com/nickbruggen90/Networking-Encyclopedia-backside/tree/main/Contents/AdvancedTopics)** | QoS, Virtualization |
 | **[Packet Analysis](https://nickbruggen90.net)** | ICMP, ARP, header breakdowns |
 | **[Automation](https://github.com/nickbruggen90/Networking-Encyclopedia-backside/tree/main/Contents/Automation)** | Netmiko, Python, Ansible |
-| **[Encyclopedia Index](https://nickbruggen90.net)** | Full alphabetical listing and search index (WIP) |
+| **[Encyclopedia Index](https://nickbruggen90.net)** | Full alphabetical listing and search index (coming soon) |
 
 ---
