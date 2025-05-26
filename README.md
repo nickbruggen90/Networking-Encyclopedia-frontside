@@ -30,7 +30,7 @@ This is **not** a generic notes repo. It’s my full-stack network reference for
 | **[Network Management](https://github.com/nickbruggen90/Networking-Encyclopedia-backside/tree/main/Contents/NetworkManagement)** | NetFlow, RESTCONF, NETCONF, SNMP |
 | **[Overlay Technologies](https://github.com/nickbruggen90/Networking-Encyclopedia-backside/tree/main/Contents/OverlayTechnologies)** | DMVPN, LISP, SD-WAN, VXLAN |
 | **[Packet Analysis](https://nickbruggen90.net)** | ICMP, ARP, header breakdowns |
-| **[Automation](https://github.com/nickbruggen90/Networking-Encyclopedia-backside/tree/main/Contents/Automation)** | Netmiko, RESTCONF tools, Mochi automation |
+| **[Automation](https://github.com/nickbruggen90/Networking-Encyclopedia-backside/tree/main/Contents/Automation)** | Netmiko, Python, Ansible |
 | **[Encyclopedia Index](https://nickbruggen90.net)** | Full alphabetical listing and search index (WIP) |
 
 ---
