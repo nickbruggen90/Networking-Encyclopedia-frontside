@@ -20,14 +20,14 @@ This is **not** a generic notes repo. It’s my full-stack network reference for
 
 | Section | Description |
 |--------|-------------|
-| **[Layer 2](https://github.com/nickbruggen90/Networking-Encyclopedia-backside/tree/main/Contents/IPServices)** | STP, RSTP, MSTP, VLANs, EtherChannel, VTP, DTP |
-| **[Layer 3](./Layer3/)** | OSPF, EIGRP, BGP, VRFs, PBR |
-| **[IP Services](./IP_Services/)** | NAT, DHCP, Syslog, NTP, SNMP |
-| **[Network Security](./Security/)** | ACLs, DHCP Snooping, DAI, MACsec, 802.1X |
-| **[Multicast](./Multicast/)** | IGMP, PIM, RPF |
-| **[Redundancy](./Redundancy/)** | HSRP, VRRP, GLBP |
-| **[Network Management](./Management/)** | NetFlow, RESTCONF, NETCONF, SNMP |
-| **[Overlay Technologies](./Overlay/)** | DMVPN, LISP, SD-WAN, VXLAN |
+| **[Layer 2](https://github.com/nickbruggen90/Networking-Encyclopedia-backside/tree/main/Contents/Layer2)** | STP, RSTP, MSTP, VLANs, EtherChannel, VTP, DTP |
+| **[Layer 3](https://github.com/nickbruggen90/Networking-Encyclopedia-backside/tree/main/Contents/Layer3)** | OSPF, EIGRP, BGP, VRFs, PBR |
+| **[IP Services](https://github.com/nickbruggen90/Networking-Encyclopedia-backside/tree/main/Contents/IPServices)** | NAT, DHCP, Syslog, NTP, SNMP |
+| **[Network Security](https://github.com/nickbruggen90/Networking-Encyclopedia-backside/tree/main/Contents/NetworkSecurity)** | ACLs, DHCP Snooping, DAI, MACsec, 802.1X |
+| **[Multicast](https://github.com/nickbruggen90/Networking-Encyclopedia-backside/tree/main/Contents/Multicast)** | IGMP, PIM, RPF |
+| **[Redundancy](https://github.com/nickbruggen90/Networking-Encyclopedia-backside/tree/main/Contents/Redundancy)** | HSRP, VRRP, GLBP |
+| **[Network Management](https://github.com/nickbruggen90/Networking-Encyclopedia-backside/tree/main/Contents/NetworkManagement)** | NetFlow, RESTCONF, NETCONF, SNMP |
+| **[Overlay Technologies](https://github.com/nickbruggen90/Networking-Encyclopedia-backside/tree/main/Contents/OverlayTechnologies)** | DMVPN, LISP, SD-WAN, VXLAN |
 | **[Packet Analysis](./Wireshark/)** | ICMP, ARP, header breakdowns |
 | **[Python Scripts](../Python/)** | Netmiko, RESTCONF tools, Mochi automation |
 | **[Encyclopedia Index](./Index.md)** | Full alphabetical listing and search index (WIP) |
