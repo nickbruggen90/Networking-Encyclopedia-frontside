@@ -35,6 +35,6 @@ This is **not** a generic notes repo. It’s my full-stack network reference for
 | **[Packet Analysis](https://nickbruggen90.net)** | ICMP, ARP, header breakdowns |
 | **[Automation](https://github.com/nickbruggen90/Networking-Encyclopedia-backside/tree/main/Contents/Automation)** | Netmiko, Python, Ansible |
 | **[Real-World Layer 9](https://nickbruggen90.net)** | Naming Conventions, Behind The Desk Insights |
-| **[Encyclopedia Index](https://nickbruggen90.net)** | Full alphabetical listing and search index (coming soon) |
+| **[Encyclopedia Index](https://github.com/nickbruggen90/Networking-Encyclopedia-backside/blob/main/Contents/EncyclopediaIndex.md)** | Full alphabetical listing and search index |
 
 ---
