@@ -23,8 +23,8 @@ This is **not** a generic notes repo. It’s my full-stack network reference for
 | **[Core Concepts](https://github.com/nickbruggen90/Networking-Encyclopedia-backside/tree/main/Contents/CoreConcepts)** | Management Plane, Data Plane, Control Plane |
 | **[Layer 2](https://github.com/nickbruggen90/Networking-Encyclopedia-backside/tree/main/Contents/Layer2)** | STP, RSTP, MSTP, VLANs, EtherChannel, VTP, DTP |
 | **[Layer 3](https://github.com/nickbruggen90/Networking-Encyclopedia-backside/tree/main/Contents/Layer3)** | OSPF, EIGRP, BGP, VRFs, PBR |
-| **[Layer 4](https://www.nickbruggen90.net)** | .......... |
-| **[Wireless](https://github.com/nickbruggen90/Networking-Encyclopedia-backside/tree/main/Contents/Wireless)** | .......... |
+| **[Layer 4](https://www.nickbruggen90.net)** | TCP, UDP, Flow Control, Port Number |
+| **[Wireless](https://github.com/nickbruggen90/Networking-Encyclopedia-backside/tree/main/Contents/Wireless)** | 802.11 Standards, WLC Architecture, RF Planning |
 | **[IP Services](https://github.com/nickbruggen90/Networking-Encyclopedia-backside/tree/main/Contents/IPServices)** | NAT, DHCP, Syslog, NTP, SNMP |
 | **[Network Security](https://github.com/nickbruggen90/Networking-Encyclopedia-backside/tree/main/Contents/NetworkSecurity)** | ACLs, DHCP Snooping, DAI, MACsec, 802.1X |
 | **[Multicast](https://github.com/nickbruggen90/Networking-Encyclopedia-backside/tree/main/Contents/Multicast)** | IGMP, PIM, RPF |
@@ -34,6 +34,7 @@ This is **not** a generic notes repo. It’s my full-stack network reference for
 | **[Advanced Topics](https://github.com/nickbruggen90/Networking-Encyclopedia-backside/tree/main/Contents/AdvancedTopics)** | QoS, Virtualization |
 | **[Packet Analysis](https://nickbruggen90.net)** | ICMP, ARP, header breakdowns |
 | **[Automation](https://github.com/nickbruggen90/Networking-Encyclopedia-backside/tree/main/Contents/Automation)** | Netmiko, Python, Ansible |
+| **[Real-World Layer 9](https://nickbruggen90.net)** | Naming Conventions, Behind The Desk Insights |
 | **[Encyclopedia Index](https://nickbruggen90.net)** | Full alphabetical listing and search index (coming soon) |
 
 ---
