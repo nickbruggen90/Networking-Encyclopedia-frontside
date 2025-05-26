@@ -28,8 +28,8 @@ This is **not** a generic notes repo. It’s my full-stack network reference for
 | **[Redundancy](https://github.com/nickbruggen90/Networking-Encyclopedia-backside/tree/main/Contents/Redundancy)** | HSRP, VRRP, GLBP |
 | **[Network Management](https://github.com/nickbruggen90/Networking-Encyclopedia-backside/tree/main/Contents/NetworkManagement)** | NetFlow, RESTCONF, NETCONF, SNMP |
 | **[Overlay Technologies](https://github.com/nickbruggen90/Networking-Encyclopedia-backside/tree/main/Contents/OverlayTechnologies)** | DMVPN, LISP, SD-WAN, VXLAN |
-| **[Packet Analysis](./Wireshark/)** | ICMP, ARP, header breakdowns |
-| **[Python Scripts](../Python/)** | Netmiko, RESTCONF tools, Mochi automation |
-| **[Encyclopedia Index](./Index.md)** | Full alphabetical listing and search index (WIP) |
+| **[Packet Analysis](https://nickbruggen90.net)** | ICMP, ARP, header breakdowns |
+| **[Python Scripts](https://nickbruggen90.net)** | Netmiko, RESTCONF tools, Mochi automation |
+| **[Encyclopedia Index](https://nickbruggen90.net)** | Full alphabetical listing and search index (WIP) |
 
 ---
