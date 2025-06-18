@@ -16,7 +16,6 @@ You’ll find detailed breakdowns, RFC references, command syntax, use cases, tr
 
 ---
 ## Contents
-
 | Section | Description |
 |--------|-------------|
 | **[Core Concepts](https://github.com/nickbruggen90/Networking-Encyclopedia-backside/tree/main/Contents/CoreConcepts)** | Management Plane, Data Plane, Control Plane |
