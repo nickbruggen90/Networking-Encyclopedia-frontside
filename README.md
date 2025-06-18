@@ -11,11 +11,11 @@ Welcome to *Encyclopedia Vol. 802.1Q* - a comprehensive, vendor neutral referenc
 You’ll find detailed breakdowns, RFC references, command syntax, use cases, troubleshooting tips, and comparisons — organized by protocol and technology.
 
 ---
-## Quick Reference
+## 🔎 Quick Reference
 [Encyclopedia Index](https://github.com/nickbruggen90/Networking-Encyclopedia-backside/blob/main/Contents/EncyclopediaIndex.md) | Full alphabetical listing and search index |
 
 ---
-## Contents
+## 📋 Contents
 | Section | Description |
 |--------|-------------|
 | **[Core Concepts](https://github.com/nickbruggen90/Networking-Encyclopedia-backside/tree/main/Contents/CoreConcepts)** | Management Plane, Data Plane, Control Plane |
