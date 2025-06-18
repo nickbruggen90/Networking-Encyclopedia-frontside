@@ -13,7 +13,7 @@ You’ll find detailed breakdowns, RFC references, command syntax, use cases, tr
 ---
 
 ---
-> [Encyclopedia Index](https://github.com/nickbruggen90/Networking-Encyclopedia-backside/blob/main/Contents/EncyclopediaIndex.md) | Full alphabetical listing and search index |
+> 📚[Encyclopedia Index](https://github.com/nickbruggen90/Networking-Encyclopedia-backside/blob/main/Contents/EncyclopediaIndex.md) | Full alphabetical listing and search index |
 ## Contents
 
 | Section | Description |
