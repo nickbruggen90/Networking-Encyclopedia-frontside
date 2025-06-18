@@ -32,6 +32,6 @@ You’ll find detailed breakdowns, RFC references, command syntax, use cases, tr
 | **[Packet Analysis](https://nickbruggen90.net)** | ICMP, ARP, header breakdowns |
 | **[Automation](https://github.com/nickbruggen90/Networking-Encyclopedia-backside/tree/main/Contents/Automation)** | Netmiko, Python, Ansible |
 | **[Real-World Layer 9](https://nickbruggen90.net)** | Naming Conventions, Behind The Desk Insights |
-| **[Encyclopedia Index](https://github.com/nickbruggen90/Networking-Encyclopedia-backside/blob/main/Contents/EncyclopediaIndex.md)** | Full alphabetical listing and search index |
 
 ---
+| **[Encyclopedia Index](https://github.com/nickbruggen90/Networking-Encyclopedia-backside/blob/main/Contents/EncyclopediaIndex.md)** | Full alphabetical listing and search index |
