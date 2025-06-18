@@ -13,7 +13,8 @@ You’ll find detailed breakdowns, RFC references, command syntax, use cases, tr
 ---
 
 ---
-## Contents ##### | **[Encyclopedia Index](https://github.com/nickbruggen90/Networking-Encyclopedia-backside/blob/main/Contents/EncyclopediaIndex.md)** | Full alphabetical listing and search index |
+| **[Encyclopedia Index](https://github.com/nickbruggen90/Networking-Encyclopedia-backside/blob/main/Contents/EncyclopediaIndex.md)** | Full alphabetical listing and search index |
+## Contents
 
 | Section | Description |
 |--------|-------------|
@@ -34,4 +35,4 @@ You’ll find detailed breakdowns, RFC references, command syntax, use cases, tr
 | **[Real-World Layer 9](https://nickbruggen90.net)** | Naming Conventions, Behind The Desk Insights |
 
 ---
-| **[Encyclopedia Index](https://github.com/nickbruggen90/Networking-Encyclopedia-backside/blob/main/Contents/EncyclopediaIndex.md)** | Full alphabetical listing and search index |
+
