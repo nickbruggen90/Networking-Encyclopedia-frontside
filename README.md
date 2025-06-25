@@ -1,21 +1,21 @@
-# 📚Encyclopedia: Vol. 802.1Q
+# Encyclopedia: Vol. 802.1Q
 Welcome to *Encyclopedia Vol. 802.1Q* - a comprehensive, vendor neutral reference manual for all things networking.  
 *A living reference for mastering protocols, topologies, and real-world networking design*
 
 ---
 
-## 🧭 About This Project
+## About This Project
 
 **Vol. 802.1Q** is an ongoing encyclopedia-style manual of everything I’m learning about networking — from Cisco CCNP to multivendor, from routing to automation. It's designed for deep study, long-term retention, and practical, production-ready knowledge.
 
 You’ll find detailed breakdowns, RFC references, command syntax, use cases, troubleshooting tips, and comparisons — organized by protocol and technology.
 
 ---
-## 🔎 Quick Reference
+## Quick Reference
 [Encyclopedia Index](https://github.com/nickbruggen90/Networking-Encyclopedia-backside/blob/main/Contents/EncyclopediaIndex.md) | Full alphabetical listing and search index of all topics and protocols |
 
 ---
-## 📋 Contents
+## Contents
 | Section | Description |
 |--------|-------------|
 | **[Core Concepts](https://github.com/nickbruggen90/Networking-Encyclopedia-backside/tree/main/Contents/CoreConcepts)** | Management Plane, Data Plane, Control Plane |
