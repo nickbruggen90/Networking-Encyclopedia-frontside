@@ -6,7 +6,7 @@ Welcome to *Encyclopedia Vol. 802.1Q* - a comprehensive, vendor neutral referenc
 
 ## About This Project
 
-**Vol. 802.1Q** is an ongoing encyclopedia-style manual of everything I’m learning about networking — from Cisco CCNP to multivendor, from routing to automation. It's designed for deep study, long-term retention, and practical, production-ready knowledge.
+**Vol. 802.1Q** is an ongoing encyclopedia-style, reference manual of everything I've have been learning about multi-vendor networking.
 
 You’ll find detailed breakdowns, RFC references, command syntax, use cases, troubleshooting tips, and comparisons — organized by protocol and technology.
 
