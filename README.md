@@ -18,7 +18,7 @@ You’ll find detailed breakdowns, RFC references, command syntax, use cases, tr
 
 ---
 ## Contents
-| Section | Description |
+| Section | 
 |--------|-------------|
 | **[Core Concepts](https://github.com/nickbruggen90/Networking-Encyclopedia-backside/tree/main/Contents/CoreConcepts)** | 
 | **[Layer 2](https://github.com/nickbruggen90/Networking-Encyclopedia-backside/tree/main/Contents/Layer2)** | 
@@ -33,8 +33,8 @@ You’ll find detailed breakdowns, RFC references, command syntax, use cases, tr
 | **[Overlay Technologies](https://github.com/nickbruggen90/Networking-Encyclopedia-backside/tree/main/Contents/OverlayTechnologies)** | 
 | **[Advanced Topics](https://github.com/nickbruggen90/Networking-Encyclopedia-backside/tree/main/Contents/AdvancedTopics)** | 
 | **[Packet Analysis](https://nickbruggen90.net)** | 
-| **[Automation](https://github.com/nickbruggen90/Networking-Encyclopedia-backside/tree/main/Contents/Automation)** | Netmiko, Python, Ansible |
-| **[Real-World Layer 9](https://nickbruggen90.net)** | Naming Conventions, Behind The Desk Insights |
+| **[Automation](https://github.com/nickbruggen90/Networking-Encyclopedia-backside/tree/main/Contents/Automation)** | 
+| **[Real-World Layer 9](https://nickbruggen90.net)** | 
 
 ---
 
