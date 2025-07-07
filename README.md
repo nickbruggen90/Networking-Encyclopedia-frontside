@@ -15,8 +15,6 @@ You’ll find detailed breakdowns, RFC references, command syntax, use cases, tr
 | Section | Description |
 |--------|-------------|
 | **[Encyclopedia Index](https://github.com/nickbruggen90/Networking-Encyclopedia-backside/blob/main/Contents/EncyclopediaIndex.md)** | Full alphabetical listing and search index of all topics and protocols |
-
----
 ## Contents
 | Section | 
 |--------|
