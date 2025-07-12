@@ -5,7 +5,7 @@ _A living technical manual for mastering protocols, topologies, and real-world n
 
 ---
 
-## 📘 About This Project
+## About This Project
 
 **Vol. 802.1Q** is a structured, encyclopedia-style collection of everything I’ve learned across enterprise networking, protocol theory, and practical implementations.
 
@@ -13,7 +13,7 @@ It’s built to grow over time — each entry includes RFC references, command s
 
 ---
 
-## 🧭 Quick Reference
+## Quick Reference
 
 | Section | Description |
 |---------|-------------|
@@ -21,7 +21,7 @@ It’s built to grow over time — each entry includes RFC references, command s
 
 ---
 
-## 📂 Contents by Category
+## Contents by Category
 
 | Category | Link |
 |----------|------|
@@ -42,7 +42,7 @@ It’s built to grow over time — each entry includes RFC references, command s
 
 ---
 
-## 🧠 Philosophy
+## Philosophy
 
 This is more than notes — it’s an evolving knowledge base grounded in the **RFCs**, **Cisco design guides**, and **real lab experience**. My aim is to build a public learning resource for professionals at every level, from CCNA to CCIE.
 
